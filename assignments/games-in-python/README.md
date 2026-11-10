@@ -22,3 +22,4 @@ O programa completo deve:
 - Controlar e informar o número de tentativas incorretas restantes.
 - Encerrar quando o jogador adivinhar a palavra ou esgotar as tentativas.
 - Exibir uma mensagem indicando se o jogador venceu ou perdeu.
+p
